@@ -1,7 +1,15 @@
-'editor':
-  'fontSize': 16
-'core':
-  'themes': [
-    'atom-dark-ui'
-    'atom-dark-syntax'
-  ]
+'global':
+  'editor':
+    'invisibles': {}
+    'tabLength': 4
+    'softWrapAtPreferredLineLength': true
+    'fontSize': 12
+  'core':
+    'themes': [
+      'atom-dark-ui'
+      'base16-tomorrow-dark-theme'
+    ]
+  'exception-reporting':
+    'userId': 'd64e0e3f-1aa0-7a99-ea65-f57326edbf3d'
+  'welcome':
+    'showOnStartup': false
