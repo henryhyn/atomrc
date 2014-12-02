@@ -1,9 +1,9 @@
 'global':
   'editor':
-    'invisibles': {}
     'tabLength': 4
     'softWrapAtPreferredLineLength': true
     'fontSize': 12
+    'invisibles': {}
   'core':
     'themes': [
       'atom-dark-ui'
@@ -13,3 +13,5 @@
     'userId': 'd64e0e3f-1aa0-7a99-ea65-f57326edbf3d'
   'welcome':
     'showOnStartup': false
+  'autosave':
+    'enabled': true
